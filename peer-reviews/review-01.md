@@ -18,7 +18,5 @@
 （相手の教科書を読んで、自分の教科書に取り入れたいと思ったアイディアや書き方）
 
 ## 相手のリポジトリに書いたIssueのURL
-
-（GitHubのIssueとして投稿したフィードバックのURL）
-
-https://github.com/...
+[（GitHubのIssueとして投稿したフィードバックのURL）]
+(https://github.com/25cm0125/swift-textbook-template/issues/1)
